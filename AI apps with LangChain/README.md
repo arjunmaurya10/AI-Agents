@@ -1,0 +1,1 @@
+In this lab, we will gain hands-on experience using LangChain to simplify the complex processes required to integrate advanced AI capabilities into practical applications. We will apply core LangChain framework capabilities and use Langchain's innovative features to build more intelligent, responsive, and efficient applications.
