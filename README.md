@@ -6,4 +6,4 @@ LangChain offers a generic interface compatible with nearly any LLM. This generi
 
 One of LangChain's most powerful features is its module-based approach. This approach supports flexibility when performing experiments and the optimization of interactions with LLMs. Data scientists can dynamically compare prompts and switch between foundation models without significant code modifications. These capabilities save valuable development time and enhance the developer's ability to fine-tune applications.
 
-In this lab, We will gain hands-on experience using LangChain to simplify the complex processes required to integrate advanced AI capabilities into practical applications. We will apply core LangChain framework capabilities and use Langchain's innovative features to build more intelligent, responsive, and efficient applications.
+In this project, We will gain hands-on experience using LangChain to simplify the complex processes required to integrate advanced AI capabilities into practical applications. We will apply core LangChain framework capabilities and use Langchain's innovative features to build more intelligent, responsive, and efficient applications.
